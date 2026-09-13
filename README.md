@@ -2,6 +2,8 @@
 
 A local running and walking dashboard built with React, D3, and the published `@aias/crossfilter` package. Date, distance, pace, heart-rate, and elevation-gain chart filters coordinate the charts, route map, and activity log. Select a workout to read its heart-rate and elevation traces.
 
+<img width="1082" height="967" alt="image" src="https://github.com/user-attachments/assets/8378ac8f-6f49-4f27-b88f-a946ce6c38c1" />
+
 Install dependencies with `bun install --frozen-lockfile`. Start the app from this directory:
 
 ```sh
